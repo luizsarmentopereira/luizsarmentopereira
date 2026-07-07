@@ -20,17 +20,16 @@ Me chamo Luiz Sarmento, tenho 31 anos e sou natural de Caruaru-PE. Atualmente, e
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Windows Server e Active Directory" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="cPanel" height="40" width="40" src="https://cdn.simpleicons.org/cpanel/FF6C2C" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.simpleicons.org/n8n/FF6C37" />
 </div>
 
 ---
-
 
 ### 🌍 Idiomas
 
